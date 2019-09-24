@@ -9,6 +9,7 @@ public class Fatorial {
 			fatorial *= n;
 			System.out.println(fatorial);
 		}
+		System.out.println("Joao");
 	}
 
 }
